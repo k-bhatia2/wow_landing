@@ -1,7 +1,9 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  output: 'export',
+  // Optional: Set basePath if deploying to a subdirectory
+  // basePath: '/wow_landing',
 };
 
 export default nextConfig;
