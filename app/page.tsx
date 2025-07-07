@@ -136,7 +136,9 @@ export default function WOWMasaaleLanding() {
                   <Gift className="h-8 w-8 text-orange-600" />
                 </div>
                 <h3 className="text-xl font-bold mb-2">Value-Packed Starter Kit</h3>
-                <p className="text-gray-600">Get the Starter Kit with Early Bird Offer at Rs.1199 only (Regular Price Rs.4999)</p>
+                <p className="text-gray-600">
+                  Get the Starter Kit with Early Bird Offer at Rs.1199 only (Regular Price Rs.4999)
+                </p>
               </CardContent>
             </Card>
 
@@ -513,7 +515,14 @@ export default function WOWMasaaleLanding() {
             <span>24/7 Support</span>
           </div>
           <p className="text-gray-400 text-sm">
-            © 2024 WOW FMCG. All rights reserved. | Terms & Conditions | Privacy Policy
+            © 2024 WOW FMCG. All rights reserved. |
+            <a href="/terms-and-conditions" className="text-orange-400 hover:text-orange-300 ml-1 mr-1">
+              Terms & Conditions
+            </a>{" "}
+            |
+            <a href="/privacy-policy" className="text-orange-400 hover:text-orange-300 ml-1">
+              Privacy Policy
+            </a>
           </p>
         </div>
       </footer>
