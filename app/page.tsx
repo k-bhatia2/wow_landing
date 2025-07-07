@@ -283,7 +283,7 @@ export default function WOWMasaaleLanding() {
               className="bg-yellow-400 hover:bg-yellow-300 text-red-800 font-bold text-xl px-10 py-5 rounded-full shadow-lg transform hover:scale-105 transition-all"
               onClick={() => window.open("WHATSAPP_LINK_PLACEHOLDER", "_blank")}
             >
-              Don't Wait - Register Now!
+              Don't Wait - Register Now!!
             </Button>
           </div>
         </div>
