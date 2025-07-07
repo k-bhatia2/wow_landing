@@ -248,7 +248,7 @@ export default function WOWMasaaleLanding() {
                 className="bg-red-500 hover:bg-red-600 text-white font-bold text-lg px-8 py-4 rounded-full"
                 onClick={() => window.open("WHATSAPP_LINK_PLACEHOLDER", "_blank")}
               >
-                Yes, This is Perfect for Me!
+                Yes, This is Perfect for Me!!
               </Button>
             </div>
           </div>
