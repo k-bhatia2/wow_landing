@@ -101,7 +101,7 @@ export default function PrivacyPolicy() {
                     </section>
 
                     <section>
-                      <h2 className="text-2xl font-bold text-gray-800 mb-4">9. Children's Privacy</h2>
+                      <h2 className="text-2xl font-bold text-gray-800 mb-4">9. Children&apos;s Privacy</h2>
                       <p className="text-gray-600 leading-relaxed">
                         [CONTENT TO BE PROVIDED - Policy regarding collection of information from minors]
                       </p>

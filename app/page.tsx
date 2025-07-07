@@ -58,7 +58,7 @@ export default function WOWMasaaleLanding() {
               Transform Your Network Into Your Net Worth
             </h1>
             <p className="text-xl md:text-2xl mb-8 opacity-90">
-              Join India's fastest-growing FMCG partnership program. Start your entrepreneurial journey with premium
+              Join India&apos;s fastest-growing FMCG partnership program. Start your entrepreneurial journey with premium
               products and unlimited earning potential.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-8">
@@ -126,7 +126,7 @@ export default function WOWMasaaleLanding() {
                   <IndianRupee className="h-8 w-8 text-orange-600" />
                 </div>
                 <h3 className="text-xl font-bold mb-2">Earn Real Money</h3>
-                <p className="text-gray-600">Get 15-25% commission on every sale + bonus from your team's sales</p>
+                <p className="text-gray-600">Get 15-25% commission on every sale + bonus from your team&apos;s sales</p>
               </CardContent>
             </Card>
 
@@ -180,7 +180,7 @@ export default function WOWMasaaleLanding() {
                   <Award className="h-8 w-8 text-orange-600" />
                 </div>
                 <h3 className="text-xl font-bold mb-2">Premium Quality</h3>
-                <p className="text-gray-600">Sell products you're proud of - authentic, pure, and loved by customers</p>
+                <p className="text-gray-600">Sell products you&apos;re proud of - authentic, pure, and loved by customers</p>
               </CardContent>
             </Card>
           </div>
@@ -259,22 +259,22 @@ export default function WOWMasaaleLanding() {
       <section className="py-16 bg-gradient-to-r from-red-600 to-orange-600 text-white">
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center">
-            <h2 className="text-3xl md:text-4xl font-bold mb-6">Don't Miss Out: The Amway Success Story, Reimagined</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-6">Don&apos;t Miss Out: The Amway Success Story, Reimagined</h2>
             <div className="bg-white/10 rounded-lg p-8 mb-8">
               <p className="text-xl mb-6 leading-relaxed">
                 Remember when Amway started in India? The early adopters who joined in the 1990s are now
-                <span className="font-bold text-yellow-300"> millionaires</span>. They didn't wait. They didn't
+                <span className="font-bold text-yellow-300"> millionaires</span>. They didn&apos;t wait. They didn&apos;t
                 overthink. They saw the opportunity and grabbed it.
               </p>
               <p className="text-lg mb-6">
-                Today, WOW FMCG is offering you the same golden opportunity. We're at the beginning of something BIG in
+                Today, WOW FMCG is offering you the same golden opportunity. We&apos;re at the beginning of something BIG in
                 the Indian FMCG market.
               </p>
               <div className="bg-yellow-400 text-red-800 rounded-lg p-6 mb-6">
                 <h3 className="text-2xl font-bold mb-2">🚨 ALERT: Regret is Expensive</h3>
                 <p className="text-lg">
-                  In 6 months, when WOW partners are earning ₹1 lakh+ monthly, don't be the person saying "I wish I had
-                  joined earlier." The best time was yesterday. The second best time is NOW.
+                  In 6 months, when WOW partners are earning ₹1 lakh+ monthly, don&apos;t be the person saying &quot;I wish I had
+                  joined earlier.&quot; The best time was yesterday. The second best time is NOW.
                 </p>
               </div>
             </div>
@@ -283,7 +283,7 @@ export default function WOWMasaaleLanding() {
               className="bg-yellow-400 hover:bg-yellow-300 text-red-800 font-bold text-xl px-10 py-5 rounded-full shadow-lg transform hover:scale-105 transition-all"
               onClick={() => window.open("WHATSAPP_LINK_PLACEHOLDER", "_blank")}
             >
-              Don't Wait - Register Now!!
+              Don&apos;t Wait - Register Now!!
             </Button>
           </div>
         </div>
@@ -310,7 +310,7 @@ export default function WOWMasaaleLanding() {
                 {
                   number: "2",
                   title: "Proven Business Model",
-                  description: "Direct selling has created more millionaires than you can imagine. Now it's your turn.",
+                  description: "Direct selling has created more millionaires than you can imagine. Now it&apos;s your turn.",
                 },
                 {
                   number: "3",
@@ -338,7 +338,7 @@ export default function WOWMasaaleLanding() {
                   number: "7",
                   title: "Zero Risk Investment",
                   description:
-                    "Your ₹1199 gets you ₹4999 worth of products and store credits. You literally get more than your money's worth!",
+                    "Your ₹1199 gets you ₹4999 worth of products and store credits. You literally get more than your money&apos;s worth!",
                 },
               ].map((reason, index) => (
                 <Card key={index} className="border-l-4 border-orange-500 hover:shadow-lg transition-shadow">
@@ -467,11 +467,11 @@ export default function WOWMasaaleLanding() {
 
               <AccordionItem value="item-4" className="border border-gray-200 rounded-lg px-6">
                 <AccordionTrigger className="text-left font-semibold">
-                  What's the commission structure?
+                  What&apos;s the commission structure?
                 </AccordionTrigger>
                 <AccordionContent className="text-gray-600">
-                  You earn 15-25% on direct sales. Additionally, you get 5-10% from your direct referrals' sales and
-                  2-5% from their referrals' sales (up to 3 levels). The more you and your team sell, the higher your
+                  You earn 15-25% on direct sales. Additionally, you get 5-10% from your direct referrals&apos; sales and
+                  2-5% from their referrals&apos; sales (up to 3 levels). The more you and your team sell, the higher your
                   commission rates become.
                 </AccordionContent>
               </AccordionItem>
